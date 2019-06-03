@@ -29,8 +29,8 @@ def bubble_sort( arr ):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
     return arr
-list = [8, 4, 6, 2, 3, 9]
-print(bubble_sort(list)) 
+# list = [8, 4, 6, 2, 3, 9]
+# print(bubble_sort(list)) 
 
 
 # STRETCH: implement the Count Sort function below
